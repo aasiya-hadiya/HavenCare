@@ -1,0 +1,11 @@
+[
+  "ml-service/tests/test_ml_pipeline.py::test_activity_context_and_multi_window_persistence_and_synthetic_eval",
+  "ml-service/tests/test_ml_pipeline.py::test_disk_persistence_across_restart",
+  "ml-service/tests/test_ml_pipeline.py::test_fastapi_endpoints_end_to_end",
+  "ml-service/tests/test_ml_pipeline.py::test_high_gyro_vector_magnitude_accepted_in_fastapi",
+  "ml-service/tests/test_ml_pipeline.py::test_insufficient_baseline_vs_normal_vs_acute_guardrail",
+  "ml-service/tests/test_ml_pipeline.py::test_minimum_sample_guard_prevents_undetrained_iforest",
+  "ml-service/tests/test_ml_pipeline.py::test_poor_contact_and_ecg_leadoff_and_null_temp",
+  "ml-service/tests/test_ml_pipeline.py::test_source_separation_and_sample_demo_rejection",
+  "ml-service/tests/test_ml_pipeline.py::test_stage1_11_feature_contract_and_dataset_playback_isolation"
+]
